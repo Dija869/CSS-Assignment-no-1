@@ -100,14 +100,13 @@ h1>span {
 }
 
 .icons {
-    color:#0f5306
     margin-top: 30px;
     margin-left: -18px;
 }
 
-.icon:hover {
-    color: #0f5306;
-}
+/* .icons:hover {
+    filter: grayscale(1);    
+} */
 .experience{
     height: 100vh;
     margin-left: 50px;
